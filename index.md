@@ -4,4 +4,8 @@ $ git init
 
 Initialized empty Git repository in /saharSaleh22/markdown/.git/
 
+- [ ] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [ ] Introduce myself to the world
+
 
